@@ -15,7 +15,7 @@ To install the react project, use git bash terminal and run the command
 * JavaScript
 * React
 * React Bootstrap
-* React Router- Dom
+* React Router Dom
 * GitHub
 * [API]
 
