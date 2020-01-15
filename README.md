@@ -23,6 +23,7 @@ To install the react project, fork and clone this repository then use git bash t
 * React Bootstrap
 * React Router Dom
 * GitHub
+* Axios
 * Open Weather API
 
 ## Screenshots
