@@ -14,10 +14,10 @@ To install the react project, fork and clone this repository then use git bash t
 ``` npm install ``` followed by ``` npm start ``` to start the server after the installation process is finished.
 
 ## Technologies Used
-* HTML -DOM
-* CSS
-* JSX
 * JavaScript
+* JSX
+* CSS
+* HTML -DOM
 * React
 * React Strap
 * React Bootstrap
