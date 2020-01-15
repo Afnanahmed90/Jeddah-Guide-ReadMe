@@ -1,7 +1,9 @@
-![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.PNG) 
+# ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
+
 ### GA's SEI Course Project #3: React Application
 
-# Jeddah Guide
+# Jeddah Guide 
+<img align="center" src="Jeddah_Guide_Logo.PNG"></img>
 
 ## Description
 
@@ -12,6 +14,7 @@ To install the react project, fork and clone this repository then use git bash t
 ``` npm install ``` followed by ``` npm start ``` to start the server after the installation process is finished.
 
 ## Technologies Used
+* HTML -DOM
 * CSS
 * JSX
 * JavaScript
@@ -42,4 +45,6 @@ The application has 7 components:
 
 
 ## Resources
-
+<a href="https://reactstrap.github.io"> React Strap </a> <br>
+<a href="https://openweathermap.org/api"> Weather API </a> <br>
+<a href="https://help.github.com/en/github/writing-on-github/working-with-advanced-formatting"> GitHub- Advanced Formatting</a><br> 
