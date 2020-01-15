@@ -48,7 +48,10 @@ The application has 7 components:
 ## Resources
 <a href="https://github.com/sei-jed-10/W08D04-React-Router"> React-Router</a> <br>
 <a href="https://reactstrap.github.io"> React Strap </a> <br>
+<a href="https://reactstrap.github.io/components/navbar/"> React Strap - Navbar </a> <br>
 <a href="https://react-bootstrap.github.io/getting-started/introduction"> React Bootstrap - Getting Started </a> <br>
-<a href="https://react-bootstrap.github.io/components/carousel/"> Carousels- React Bootstrap </a> <br>
-<a href="https://openweathermap.org/api"> Weather API </a> <br>
+<a href="https://react-bootstrap.netlify.com/components/cards/#cards"> React Bootstrap - Cards </a><br>
+<a href="https://react-bootstrap.github.io/components/carousel/"> React Bootstrap- Carousels </a> <br>
+<a href="https://openweathermap.org/api"> Weather API </a><br>
 <a href="https://help.github.com/en/github/writing-on-github/working-with-advanced-formatting"> GitHub- Advanced Formatting</a><br> 
+<a href="https://github.com/sei-jed-10/React-App-Deployment-Steps"> React-App-Deployment-Steps </a>
