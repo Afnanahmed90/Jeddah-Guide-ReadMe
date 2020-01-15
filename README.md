@@ -42,7 +42,7 @@ The application has 7 components:
 * ``` Display ```
 <br> Displays information of the place/item chosen by the user from any of the previous components where it'll be rendered.
 * ``` Show Carousel ```
-<br> Rendered by the ``` Display ``` component to show multiple images of the currently displayed place using ``` Bootstrap Carousel ``` as part of the inormation related to that place.
+<br> Rendered by the ``` Display ``` component to show multiple images of the currently displayed place/item using ``` Bootstrap Carousel ``` as part of the inormation related to that place.
 
 
 ## Resources
