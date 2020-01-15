@@ -37,7 +37,7 @@ The application has 7 components:
   * ``` Hotels ```
   * ``` Places ```
   * ``` Activities ```
-<br>Each one of the previous 5 components recieves a list that corresponds to the component name (sent by ``` App.js``` when routing to that component), for example: the ``` Restaurant ``` component will recieve a list of resturants, the ``` Cafes ``` component will recieve a list of cafes, and so on.
+<br>Each one of the previous 5 components recieves a list that corresponds to the component name (sent by ``` App.js``` when routing to that component), for example: the ``` Restaurant ``` component will recieve a list of restaurants, the ``` Cafes ``` component will recieve a list of cafes, and so on.
 <br>The main purpose of each one of the components is to display the list it recieves and enable the user to click on a specific item to display more information about it.
 * ``` Display ```
 <br> Displays information of the place/item chosen by the user from any of the previous components where it'll be rendered.
