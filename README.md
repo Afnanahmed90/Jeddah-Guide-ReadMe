@@ -25,6 +25,8 @@ To install the react project, fork and clone this repository then use git bash t
 * GitHub
 * Open Weather API
 
+## Screenshots
+
 
 ## How it Works
 ### ``` App.js```
