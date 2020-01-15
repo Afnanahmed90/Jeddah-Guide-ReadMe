@@ -1,4 +1,4 @@
-![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
+![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.PNG) 
 ### GA's SEI Course Project #3: React Application
 
 # Jeddah Guide
