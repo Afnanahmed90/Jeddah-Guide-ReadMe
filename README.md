@@ -5,9 +5,6 @@
 
 ## Description
 
-## Features
-* Allow the user to navigate through the website using navigation bar.
-* Allow the user to display information about places they choose.
 
 ## Installation
 <a href="google.com"> Click here </a> to access the deployed version of the application. <br>
@@ -15,15 +12,14 @@ To install the react project, fork and clone this repository then use git bash t
 ``` npm install ``` followed by ``` npm start ``` to start the server after the installation process is finished.
 
 ## Technologies Used
-* HTML
 * CSS
 * JSX
 * JavaScript
 * React
-* React Bootstrap
+* React Strap
 * React Router Dom
 * GitHub
-* [API]
+* Open Weather API
 
 
 ## How the code works
@@ -43,3 +39,7 @@ The application has 7 components:
 <br> Displays information of the place/item chosen by the user from any of the previous components where it'll be rendered.
 * Show Carousel
 <br> Rendered by the ``` Display ``` component to show multiple images of the currently displayed place using ``` Bootstrap Carousel ``` as part of the inormation related to that place.
+
+
+## Resources
+
