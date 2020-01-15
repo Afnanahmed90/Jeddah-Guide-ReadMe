@@ -26,7 +26,7 @@ To install the react project, fork and clone this repository then use git bash t
 * Open Weather API
 
 
-## How the code works
+## How it Works
 ### App.js
 The main rendered component by ``` index.js```. It handles the display of the main navigation bar that allows the user to choose the type of place they wish to see a list of, whether it's a restaurant, cafe, hotel, a place or an activity. As well as taking care of the defining the routes to each one of the components responsible for displaying the corresponding list of places, which will be achieved when the user clicks on the link associated with that place.
 
