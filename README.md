@@ -20,6 +20,7 @@ To install the react project, fork and clone this repository then use git bash t
 * JavaScript
 * React
 * React Strap
+* React Bootstrap
 * React Router Dom
 * GitHub
 * Open Weather API
@@ -31,20 +32,23 @@ The main rendered component by ``` index.js```. It handles the display of the ma
 
 ### Components
 The application has 7 components:
-  * Restaurants
-  * Cafes
-  * Hotels
-  * Places
-  * Activities
-<br>Each one of the previous 5 components recieves a list that corresponds to the component name (sent by ``` app.js``` when routing to that component), for example: the ``` Restaurant ``` component will recieve a list of resturants, the ``` Cafes ``` component will recieve a list of cafes, and so on.
+  * ``` Restaurant ```
+  * ``` Cafes ```
+  * ``` Hotels ```
+  * ``` Places ```
+  * ``` Activities ```
+<br>Each one of the previous 5 components recieves a list that corresponds to the component name (sent by ``` App.js``` when routing to that component), for example: the ``` Restaurant ``` component will recieve a list of resturants, the ``` Cafes ``` component will recieve a list of cafes, and so on.
 <br>The main purpose of each one of the components is to display the list it recieves and enable the user to click on a specific item to display more information about it.
-* Display
+* ``` Display ```
 <br> Displays information of the place/item chosen by the user from any of the previous components where it'll be rendered.
-* Show Carousel
+* ``` Show Carousel ```
 <br> Rendered by the ``` Display ``` component to show multiple images of the currently displayed place using ``` Bootstrap Carousel ``` as part of the inormation related to that place.
 
 
 ## Resources
+<a href="https://github.com/sei-jed-10/W08D04-React-Router"> React-Router</a> <br>
 <a href="https://reactstrap.github.io"> React Strap </a> <br>
+<a href="https://react-bootstrap.github.io/getting-started/introduction"> React Bootstrap - Getting Started </a> <br>
+<a href="https://react-bootstrap.github.io/components/carousel/"> Carousels- React Bootstrap </a> <br>
 <a href="https://openweathermap.org/api"> Weather API </a> <br>
 <a href="https://help.github.com/en/github/writing-on-github/working-with-advanced-formatting"> GitHub- Advanced Formatting</a><br> 
