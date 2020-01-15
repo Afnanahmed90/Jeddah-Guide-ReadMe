@@ -5,7 +5,12 @@
 # Jeddah Guide 
 <img align="center" src="Jeddah_Guide_Logo.PNG"></img>
 
-## Description
+## APP featuers
+* 5 components
+* Picters of each component.
+* 
+*
+
 
 
 ## Installation
@@ -46,6 +51,13 @@ The application has 7 components:
 <br> Displays information of the place/item chosen by the user from any of the previous components where it'll be rendered.
 * ``` Show Carousel ```
 <br> Rendered by the ``` Display ``` component to show multiple images of the currently displayed place/item using ``` Bootstrap Carousel ``` as part of the inormation related to that place.
+
+## Software Knights Team Members:
+- Sara Alahmadi
+- Wardah Ahmed
+- Doaa Turkistani
+- Afnan Masrahi
+- Abdullah Alshahrani
 
 
 ## Resources
